@@ -1,7 +1,7 @@
 # Computer Hardware Price Prediction Model
 Multilinear regression model to predict computer system pricing based on hardware specifications like RAM, hard drive storage, and speed
 
-## 1. Business Problem
+## 1. Business Problem statement
 * **1.1 Business Objective**: Build an automated pricing tool for computer hardware using key attributes (such as speed, RAM, hard drive size, screen dimensions, and multimedia features).
 
 ## 2. Data Pre-processing & Feature Engineering
